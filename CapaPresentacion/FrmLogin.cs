@@ -14,6 +14,7 @@ namespace CapaPresentacion
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             IniciarSesion();
+            //a
         }
 
         private void txtUsuario_KeyDown(object sender, KeyEventArgs e)
